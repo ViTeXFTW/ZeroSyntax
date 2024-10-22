@@ -1,0 +1,27 @@
+{
+  "name": "zs",
+  "displayName": "ZeroSyntax",
+  "description": "Extensions for working with C&C Generals map.ini files",
+  "icon": "./images/ZeroSyntaxLogo128.png",
+  "version": "1.0.0",
+  "publisher": "ViTeXFTW",
+  "author": {
+		"name": "ViTeXFTW",
+		"email": "vitexftw@gmail.com"
+	},
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/ViTeXFTW/ZeroSyntax"
+	},
+	"license": "MIT",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "vitexftw.zerosyntax-server",
+    "vitexftw.zs-hili"
+  ]
+}
