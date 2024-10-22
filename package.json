@@ -23,5 +23,8 @@
   "extensionPack": [ 
     "vitexftw.zerosyntax-server",
     "vitexftw.zs-hili"
-  ]
+  ],
+  "scripts": {
+    "package": "vsce package"
+  }
 }
