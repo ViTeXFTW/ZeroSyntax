@@ -1,7 +1,0 @@
-[submodule "ZeroSyntax-Highlight"]
-    path = ZeroSyntax-Highlight
-    url = https://github.com/ViTeXFTW/ZeroSyntax-Highlight.git
-
-[submodule "ZeroSyntax-Server"]
-    path = ZeroSyntax-Server
-    url = https://github.com/ViTeXFTW/ZeroSyntax-Server.git
