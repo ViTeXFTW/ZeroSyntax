@@ -1,4 +1,5 @@
 # ZeroSyntax Extension Pack
+# Depricated This extension is depricated in favour of [ZeroSyntaxV2](https://github.com/ViTeXFTW/ZeroSyntaxV2)
 
 ## ZeroSyntax - Server
 A language server that provides diagnostics and completions for map.ini  
